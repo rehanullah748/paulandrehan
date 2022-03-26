@@ -1,0 +1,16 @@
+body{
+    background-color:#6f32a8;
+    color: #6f32a8;
+}
+
+.subcontainer{
+    max-width: 90%;
+    max-height: 85%;
+    background-color: black;
+    padding: 85px;
+
+    
+}
+.form-text{
+    color:#6f32a8;
+}
